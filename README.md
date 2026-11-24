@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm **Nicole Bertolino**!
 
 **About me:**
-- 📚 I’m currently learning Angular and c#
 - 🎓I'm on college studying computer science
 - ⚡ Fun fact: I listen music to work hard!
 
